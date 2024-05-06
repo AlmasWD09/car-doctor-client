@@ -1,0 +1,6 @@
+.bg-image{
+    background-image: linear-gradient(to right(black,green)),url('');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
